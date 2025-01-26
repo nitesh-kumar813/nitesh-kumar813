@@ -1,20 +1,17 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
-<h3 align="center">A passionate MERN Stack developer from India 🇮🇳 </h3>
-<img align="right"  alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
+<h3 align="center">A passionate MERN Stack developer from India </h3>
 
-
-
-
-
+<br>
 
 - 🔭 I’m currently learning **Typescript & Nextjs**
 
-- 🔭 I’m currently Looking for **Remote SDE Roles**
+- 🔭 I’m currently Looking for **Frontend Roles**
 
-- 💬 Ask me about **MERN, JavaScript, C++, DSA**
+- 💬 Ask me about **MERN, JavaScript, C++**
 
 - 📫 How to reach me **niteshkumaryadav813@gmail.com**
+- 😄 My website: [Portfolio](https://nk-portfolio-hazel.vercel.app)
 
 - 📄 Know about my experiences []()
 
